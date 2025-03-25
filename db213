@@ -1,0 +1,36 @@
+!DOCTYPE html>
+<html>
+<head>
+    <title>Интернет-зависимость</title>
+</head>
+<body>
+    <h1>Социальные сети и мессенджеры</h1>
+    <p>социальные сети уменьшают время, которое мы проводим в реальном мире. А еще привыкаем к постоянному обновлению новостей и сообщений.</p>
+    <h1>Онлайн-видео и потоковые сервисы</h1>
+    <p>слишком много времени на YouTube и Twitch - тоже зависимость, которая может привести к потере времени и уменьшению интереса к реальному миру.</p>
+    <h1>Смартфоны и планшеты</h1>
+    <p>смартфоны и планшеты могут стать привычным способом общения с миром, и люди могут стать зависимыми от постоянной проверки уведомлений!.</p>
+    <h2>Как убрать любую зависимость?</h2>
+             <ul>
+                   <li>Поставить программу которая ограничивает время в соц.сетях, играх</li>
+                   <li>Пытатся записатьтся на кружок по рисованию, заниматся спортом</li>
+                   <li>Откажитесь от посещения сайтов на несколько дней</li>
+                   <li>Отключите уведомления об обновлениях</li>
+             </ul>
+             <span><h1>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤСпасибо что зашли на сайт, и не забывайте не пользуйтесь интернетом так много!</h1></span>
+        
+
+       
+     <div class="border">
+        <img src="https://www.pvsm.ru/images/2018/05/21/40-glupyh-voprosov-o-CRM-4.jpg">
+
+   </div>
+</body>
+</html>
+
+<head>
+    <title>Полезная информация!</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<iframe src="https://www.meteoblue.com/en/weather/widget/daily/ip_romania_675514?geoloc=fixed&days=7&tempunit=FAHRENHEIT&windunit=KNOT&precipunit=INCH&coloured=coloured&pictoicon=1&maxtemperature=1&mintemperature=1&windspeed=1&windgust=0&winddirection=0&uv=0&humidity=1&precipitation=1&precipitationprobability=1&spot=1&pressure=0&layout=light"  frameborder="0" scrolling="NO" allowtransparency="true" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" style="width: 378px; height: 420px"></iframe><div><!-- DO NOT REMOVE THIS LINK --><a href="https://www.meteoblue.com/en/weather/week/ip_romania_675514?utm_source=daily_widget&utm_medium=linkus&utm_content=daily&utm_campaign=Weather%2BWidget" target="_blank" rel="noopener">meteoblue</a></div>
